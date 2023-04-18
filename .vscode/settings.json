@@ -1,0 +1,10 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "wordWrapColumn",
+    "workbench.colorCustomizations": {
+    
+    },
+    "diffEditor.codeLens": true,
+    "editor.codeLensFontFamily": "monospace"
+}
